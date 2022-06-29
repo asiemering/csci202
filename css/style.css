@@ -60,6 +60,7 @@ li a {
     width: 240px;
     color: black;
     background-color: #dddddd;
+    text-decoration: none;
 }
 
 li a:hover {
