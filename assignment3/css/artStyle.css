@@ -1,0 +1,189 @@
+
+.shapeA.one {
+
+  width: 0;
+  height: 0;
+  border: 165px solid transparent;
+  border-top: 165px solid #9aa1a9;
+  border-bottom: 0;
+  border-left: 0;
+  position: absolute;
+
+}
+
+.shapeB.two {
+
+  width: 0;
+  height: 0;
+  border: 165px solid transparent;
+  border-top: 0;
+  border-bottom: 165px solid #24201f;
+  border-right: 0;
+  position: absolute;
+
+}
+
+.shapeB.three {
+
+  width: 35px;
+  height: 165px;
+  background-color: #24201f;
+  left: 173px;
+  position: absolute;
+
+}
+
+.shapeB.four {
+
+  width: 200px;
+  height: 135px;
+  background-color: #24201f;
+  top: 173px;
+  position: absolute;
+
+}
+
+.shapeB.five {
+
+  width: 0;
+  height: 0;
+  border: 200px solid transparent;
+  border-top: 200px solid #24201f;
+  border-bottom: 0;
+  border-right: 0;
+  position: absolute;
+  top: 308px;
+
+}
+
+
+.shapeC.six {
+
+  width: 0;
+  height: 0;
+  border-top: 100px solid transparent;
+  border-left: 100px solid #d1a740;
+  border-bottom: 100px solid transparent;
+  top: 308px;
+  position: absolute;
+
+}
+
+.shapeD.seven {
+
+  width: 0;
+  height: 0;
+  border-top: 0;
+  border-left: 100px solid transparent;
+  border-bottom: 100px solid #d4cbc0;
+  border-right: 100px solid transparent;
+  top: 408px;
+  position: absolute;
+
+}
+
+.shapeE.eight {
+
+  width: 65px;
+  height: 110px;
+  background-color: #d4cbc2;
+  left: 208px;
+  position: absolute;
+
+}
+
+.shapeE.nine {
+
+  width: 0;
+  height: 0;
+  border-top: 0;
+  border-left: 0;
+  border-bottom: 110px solid #d4cbc2;
+  border-right: 118px solid transparent;
+  left: 272px;
+  position: absolute;
+
+}
+
+.shapeE.ten {
+
+  width: 0;
+  height: 0;
+  border: 183px solid transparent;
+  border-top: 190px solid #d4cbc2;
+  border-bottom: 0;
+  border-left: 0;
+  position: absolute;
+  left: 208px;
+  top: 118px;
+
+}
+
+.shapeF.eleven {
+
+  width: 0;
+  height: 0;
+  border-left: 118px solid transparent;
+  border-top: 110px solid #6a6667;
+  border-right: 100px solid transparent;
+  position: absolute;
+  left: 272px;
+
+}
+
+.shapeG.twelve {
+
+  width: 0;
+  height: 0;
+  border: 282px solid transparent;
+  border-top: 0;
+  border-bottom: 300px solid #af180a;
+  border-right: 0;
+  position: absolute;
+  left: 208px;
+
+}
+
+.shapeG.thirteen {
+
+  width: 0;
+  height: 0;
+  border: 200px solid transparent;
+  border-top: 200px solid #af180a;
+  border-left: 200;
+  border-right: 0;
+  position: absolute;
+  top: 308px;
+  left: 208px;
+
+}
+
+.shapeG.fourteen {
+
+  width: 82px;
+  height: 200px;
+  top: 308px;
+  left: 408px;
+  background-color: #af180a;
+  position: absolute;
+
+}
+
+.shapeH.fifteen {
+
+  width: 0;
+  height: 0;
+  border-right: 200px solid transparent;
+  border-bottom: 200px solid #acb5bd;
+  top: 308px;
+  left: 208px;
+  position: absolute;
+
+}
+
+footer {
+
+  top: 550px;
+
+}
+
