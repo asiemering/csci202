@@ -181,9 +181,17 @@
 
 }
 
-footer {
+a {
 
-  top: 550px;
+  top: 510px;
+  position: absolute;
+
+  background-color: #164175;
+  padding: 10px;
+  margin: 50px;
+
+  text-decoration: none;
+  color: whitesmoke;
 
 }
 
