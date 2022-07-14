@@ -1,0 +1,131 @@
+
+html {
+  
+  background-color: black;
+  text-align: center;
+
+}
+
+body {
+
+  display: block;
+
+}
+
+h1 {
+
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+
+}
+
+button {
+
+  width: 20%;
+  height: 15%;
+
+  position: absolute;
+
+  background-color: transparent;
+  border: none;
+  border-radius: 80px;
+
+}
+
+button:hover {
+
+  background-color: white;
+  opacity: 0.2;
+
+}
+
+.mercuryButton {
+
+  top: 11%;
+  left: 13%;
+
+}
+
+.mercuryButton {
+
+}
+
+.venusButton {
+
+  top: 11%;
+  left: 40%;
+
+}
+
+.earthButton {
+
+  top: 11%;
+  left: 66%;
+
+}
+
+.marsButton {
+
+  top: 31%;
+  left: 13%;
+
+}
+
+.jupiterButton {
+
+  top: 31%;
+  left: 40%;
+
+}
+
+.saturnButton {
+
+  top: 31%;
+  left: 66%;
+
+}
+
+.uranusButton {
+
+  top: 53%;
+  left: 13%;
+
+}
+
+.neptuneButton {
+
+  top: 53%;
+  left: 40%;
+
+}
+
+.plutoButton {
+
+  top: 53%;
+  left: 66%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
