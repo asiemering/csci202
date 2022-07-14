@@ -24,20 +24,6 @@ $(document).ready(function(){
 
   });
 
-  $(".redAnimation").mouseleave(function(){
-
-    $(".redAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".redAnimation").hide();
-
-  });
-
-
 
   $(".venusButton").click(function(){
 
@@ -51,20 +37,6 @@ $(document).ready(function(){
     });
 
   });
-
-  $(".maroonAnimation").mouseleave(function(){
-
-    $(".maroonAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".maroonAnimation").hide();
-
-  });
-
 
 
   $(".earthButton").click(function(){
@@ -80,20 +52,6 @@ $(document).ready(function(){
 
   });
 
-  $(".orangeAnimation").mouseleave(function(){
-
-    $(".orangeAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".orangeAnimation").hide();
-
-  });
-
-
 
   $(".marsButton").click(function(){
 
@@ -108,21 +66,7 @@ $(document).ready(function(){
 
   });
 
-  $(".yellowAnimation").mouseleave(function(){
-
-    $(".yellowAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".yellowAnimation").hide();
-
-  });
-
-
-
+  
   $(".jupiterButton").click(function(){
 
     $(".greenAnimation").show();
@@ -135,20 +79,6 @@ $(document).ready(function(){
     });
 
   });
-
-  $(".greenAnimation").mouseleave(function(){
-
-    $(".greenAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".greenAnimation").hide();
-
-  });
-
 
 
   $(".saturnButton").click(function(){
@@ -164,20 +94,6 @@ $(document).ready(function(){
 
   });
 
-  $(".lightblueAnimation").mouseleave(function(){
-
-    $(".lightblueAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".lightblueAnimation").hide();
-
-  });
-
-
 
   $(".uranusButton").click(function(){
 
@@ -191,20 +107,6 @@ $(document).ready(function(){
     });
 
   });
-
-  $(".blueAnimation").mouseleave(function(){
-
-    $(".blueAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".blueAnimation").hide();
-
-  });
-
 
 
   $(".neptuneButton").click(function(){
@@ -220,20 +122,6 @@ $(document).ready(function(){
 
   });
 
-  $(".darkblueAnimation").mouseleave(function(){
-
-    $(".darkblueAnimation").animate({
-      height: '10%',
-      width: '15%',
-      top: '30%',
-      left: '40%'
-    });
-
-    $(".darkblueAnimation").hide();
-
-  });
-
-
 
   $(".plutoButton").click(function(){
 
@@ -248,16 +136,16 @@ $(document).ready(function(){
 
   });
 
-  $(".purpleAnimation").mouseleave(function(){
+  $("body").mouseleave(function(){
 
-    $(".purpleAnimation").animate({
+    $("div").animate({
       height: '10%',
       width: '15%',
       top: '30%',
       left: '40%'
     });
 
-    $(".purpleAnimation").hide();
+    $("div").hide();
 
   });
 
