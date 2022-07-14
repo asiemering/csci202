@@ -141,8 +141,6 @@ $(document).ready(function(){
     $("div").animate({
       height: '10%',
       width: '15%',
-      top: '30%',
-      left: '40%'
     });
 
     $("div").hide();

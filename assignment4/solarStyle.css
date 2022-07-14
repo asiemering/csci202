@@ -29,6 +29,89 @@ img {
 
 }
 
+button {
+
+  width: 20%;
+  height: 15%;
+
+  position: absolute;
+
+  background-color: transparent;
+  border: none;
+  border-radius: 80px;
+
+}
+
+button:hover {
+
+  background-color: white;
+  opacity: 0.2;
+
+}
+
+.mercuryButton {
+
+  top: 11%;
+  left: 13%;
+
+}
+
+.venusButton {
+
+  top: 11%;
+  left: 40%;
+
+}
+
+.earthButton {
+
+  top: 11%;
+  left: 66%;
+
+}
+
+.marsButton {
+
+  top: 31%;
+  left: 13%;
+
+}
+
+.jupiterButton {
+
+  top: 31%;
+  left: 40%;
+
+}
+
+.saturnButton {
+
+  top: 31%;
+  left: 66%;
+
+}
+
+.uranusButton {
+
+  top: 53%;
+  left: 13%;
+
+}
+
+.neptuneButton {
+
+  top: 53%;
+  left: 40%;
+
+}
+
+.plutoButton {
+
+  top: 53%;
+  left: 66%;
+
+}
+
 .maroonAnimation {
 
   display: block;
@@ -200,88 +283,7 @@ img {
 
 }
 
-button {
 
-  width: 20%;
-  height: 15%;
-
-  position: absolute;
-
-  background-color: transparent;
-  border: none;
-  border-radius: 80px;
-
-}
-
-button:hover {
-
-  background-color: white;
-  opacity: 0.2;
-
-}
-
-.mercuryButton {
-
-  top: 11%;
-  left: 13%;
-
-}
-
-.venusButton {
-
-  top: 11%;
-  left: 40%;
-
-}
-
-.earthButton {
-
-  top: 11%;
-  left: 66%;
-
-}
-
-.marsButton {
-
-  top: 31%;
-  left: 13%;
-
-}
-
-.jupiterButton {
-
-  top: 31%;
-  left: 40%;
-
-}
-
-.saturnButton {
-
-  top: 31%;
-  left: 66%;
-
-}
-
-.uranusButton {
-
-  top: 53%;
-  left: 13%;
-
-}
-
-.neptuneButton {
-
-  top: 53%;
-  left: 40%;
-
-}
-
-.plutoButton {
-
-  top: 53%;
-  left: 66%;
-
-}
 
 footer {
 
