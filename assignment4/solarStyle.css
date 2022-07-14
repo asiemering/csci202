@@ -55,10 +55,6 @@ button:hover {
 
 }
 
-.mercuryButton {
-
-}
-
 .venusButton {
 
   top: 11%;
@@ -115,6 +111,26 @@ button:hover {
 
 }
 
+.animation {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+
+  position: absolute;
+
+  width: 50%;
+  height: 20%;
+
+  top: 10%;
+  left: 10%;
+
+  background-color: red;
+  opacity: 0.3;
+
+
+}
 
 
 
