@@ -1,5 +1,5 @@
 
-$.getJSON('http://api.open-notify.org/astros.json?callback=?', function(data) {
+$.getJSON('https://asiemering.github.io/csci202/assignment5/astros.json', function(data) {
     var number = data['number'];
 
     $('#heading').append('  ' + number + '!');
