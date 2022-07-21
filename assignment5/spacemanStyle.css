@@ -1,0 +1,49 @@
+
+html {
+
+  background-color: black;
+
+}
+
+body {
+
+  display: block;
+
+}
+
+button {
+
+  border: none;
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  background: transparent;
+
+}
+
+p {
+
+  color: white;
+
+}
+
+button:hover {
+
+  background: white;
+
+}
+
+img {
+
+  width: auto;
+  height: 90%;
+  position: relative;
+
+}
+
+ul {
+
+  top: 200px;
+  color: white;
+
+}
