@@ -5,8 +5,16 @@ html {
 
 }
 
+header {
+
+  color: white;
+  padding-bottom: 40px;
+
+}
+
 body {
 
+  margin: 5%;
   display: block;
 
 }
@@ -14,16 +22,12 @@ body {
 button {
 
   border: none;
-  width: 10%;
-  height: 20%;
-  position: absolute;
+  width: 300px;
+  height: 500px;
+  position: static;
   background: transparent;
 
-}
-
-p {
-
-  color: white;
+  padding: 20px;
 
 }
 
@@ -35,15 +39,8 @@ button:hover {
 
 img {
 
-  width: auto;
-  height: 90%;
+  width: 200px;
+  height: 400px;
   position: relative;
-
-}
-
-ul {
-
-  top: 200px;
-  color: white;
 
 }
